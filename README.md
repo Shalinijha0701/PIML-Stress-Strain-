@@ -1,7 +1,7 @@
 # PIML Stress-Strain Prediction for LPBF
 
-Repository scaffold for the physics-informed machine-learning stress-strain
-prediction project for laser powder bed fusion (LPBF) materials.
+Physics-informed machine-learning stress-strain prediction project for laser
+powder bed fusion (LPBF) materials.
 
 ## Repository layout
 
@@ -24,14 +24,13 @@ PIML-Stress-Strain-Prediction-LPBF/
 
 ## Status
 
-This repository currently contains the project structure and documentation.
-The analysis scripts and project data have not yet been populated. The script
-files exit with an explicit "not implemented" message until their workflows
-are added.
+Experimental source data for Ti-6Al-4V and AlSi10Mg are included in `data/`.
+The analysis scripts are still placeholders and exit with an explicit "not
+implemented" message until their workflows are added.
 
 ## Working with the project
 
-1. Add or document the source datasets in `data/` before running analyses.
+1. Read `data/README.md` for dataset provenance, citations, and license.
 2. Implement and run the relevant scripts from the repository root.
 3. Store tabular outputs in `results/result_csv_files/` and generated plots in
    `figures/`.

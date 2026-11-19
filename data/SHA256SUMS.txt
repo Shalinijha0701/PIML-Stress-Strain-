@@ -1,0 +1,14 @@
+6402ff598230b6e9fd6d8e22a31b1619b8403eb7d705daa68cdd4ad9ef8ad21d  AlSi10Mg/AlSi10Mg PSP feature table.xlsx
+0010fa666e4bf1d0386699884317eee8b9b1fe532978da06ddd574af42a3c5e9  AlSi10Mg/Stress-strain curves.zip
+e07f71699d680362ad734521828e5265740699a047f47171e6eb9c0d5573e236  AlSi10Mg/[FR] Mechanical property table.xlsx
+cdbc319bae093f1f60e945014d7dcbd4e88563952f282a8c1a04dbafdb5b7495  AlSi10Mg/curves/[FR] Stress-strain curve table - group1.xlsx
+b6c5c3c3e5ba2bbc2db7f7008f669692785d557f352f54603ba466918083843b  AlSi10Mg/curves/[FR] Stress-strain curve table - group2.xlsx
+581de96cef830e75d027fe293a9e16692d858e92b18acc3d295211386a771903  AlSi10Mg/curves/[FR] Stress-strain curve table - group3.xlsx
+5e396fb78a829c7012c64e85e7fb320c52f5f281c0501e635b8519f4dbf1e7b6  AlSi10Mg/curves/readme.txt
+82d1ce6965246604eba5a7fa7314b7b4a8957863db1e7284ad5558e6d4ac8af9  Ti6Al4V/Ti-6Al-4V PSP feature table.xlsx
+824d8431b034eab212e9b61617296abac22163e80f5ca513fc084ca2db51f9df  Ti6Al4V/curves/flat set 1.xlsx
+78b8b00aaa553ca4372a8b1d33d17381f4b621d8f084704d3b8e8671622925db  Ti6Al4V/curves/flat set 2.xlsx
+044dd6ce2b05e5e55706d70b69ed0b32ee993272d11a9917d9464a41f50e8ad9  Ti6Al4V/curves/round set 1.xlsx
+e1bd2c3a1100efd08dff9d4ad2dfaee11d0da8ec2804814a6975e890fd96c50b  Ti6Al4V/curves/round set 2.xlsx
+431bc5753dffa70da9041dfe55d0ce81ec159a9eccce317149df919f6de92c2b  Ti6Al4V/mechanical property table.xlsx
+7152314da10eea9c8aab3adf42982d94d14d80d5a55653f51ec5f43753a81600  Ti6Al4V/stress-strain curves.zip
